@@ -15,7 +15,7 @@
 
 <h1 id = "HomeSubTitle"><fmt:message key="HomeTitle"/></h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+<a href="hello-servlet">Servlet</a>
 </fmt:bundle>
 </body>
 </html>
